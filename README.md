@@ -150,8 +150,7 @@ void Error_Handler(void)
 
  <img width="1038" height="911" alt="Screenshot 2025-10-14 232247" src="https://github.com/user-attachments/assets/decc4ad7-92fb-4072-8d2c-980e1a71da8f" />
 
-## layout of the circuit 
- <img width="1097" height="902" alt="Screenshot 2025-10-14 232257" src="https://github.com/user-attachments/assets/d2ee3963-c6bc-4382-8bb2-8e7fe0fd17d6" />
+
 
  
 ## Result :
